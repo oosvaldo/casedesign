@@ -1,0 +1,16 @@
+.menu span{
+	background-color: #770033;
+	margin-bottom 	: 5px;
+	height 			: 45px;
+	border-radius 	: 0px 3px 3px 0px;
+	text-align 		: center;
+	cursor 			: pointer;
+	color 			: white;
+	font-size 		: 20px;
+}
+
+.menu span label{
+	position 	: relative;
+	top 	 	: 30%;
+	cursor 		: pointer;
+}
